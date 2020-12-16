@@ -1,2 +1,1 @@
-# ImageProcessing-Assignments
-Assignments of Image Processing (EE5377)
+# Sem 5 - Assignments
